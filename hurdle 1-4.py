@@ -110,5 +110,3 @@ while not at_goal():
 
 #cetak output
 print (output)
-
-    
